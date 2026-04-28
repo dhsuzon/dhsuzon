@@ -11,17 +11,15 @@
 ---
 
 ### 🧑‍💻 About Me
-I am a passionate **Software Engineer** dedicated to building scalable and efficient web applications. With a strong foundation in **Data Structures and Algorithms (DSA)** and expertise in the **MERN Stack**, I enjoy solving complex problems through clean and maintainable code.
+I am a passionate **Software Engineer** dedicated to building scalable and efficient web applications. With expertise in the **MERN Stack**, I enjoy solving complex problems through clean and maintainable code.
 
-- 🔭 **Current Activity:** I am exploring advanced features of **Next.js** and building a comprehensive **Tourism Website**.
-- 🌱 **Learning Journey:** Deepening my knowledge in **System Design** and advanced **DSA with C++**.
+- 🔭 **Current Activity:** I am exploring advanced features of **Next.js** and learning **Advance DSA & Algorithms**.
+- 🌱 **Learning Journey:** Deepening my knowledge in **System Design** and building scalable architectures.
 - 💬 **Ask me about:** React, Node.js, MongoDB, or C++ competitive programming.
 
----
+### 🛠️ Skills & Technologies 
 
-### 🛠️ Skills & Technologies (Click to Documentation)
-
-| Category | Icons (Dark Theme) |
+| Category | Icons |
 | :--- | :--- |
 | **Languages** | [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/) [![C](https://skillicons.dev/icons?i=c)](https://en.cppreference.com/w/c) [![JS](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/docs/Web/JavaScript) [![Python](https://skillicons.dev/icons?i=py)](https://docs.python.org/3/) [![Java](https://skillicons.dev/icons?i=java)](https://docs.oracle.com/en/java/) [![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/docs.php) |
 | **Frontend** | [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/docs/Web/HTML) [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/docs/Web/CSS) [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/docs) [![React](https://skillicons.dev/icons?i=react)](https://react.dev/) [![NextJS](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/docs) |
