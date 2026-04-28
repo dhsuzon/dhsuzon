@@ -38,7 +38,7 @@ I am a passionate **Software Engineer** dedicated to building scalable and effic
 ---
 
 ### 🌐 Socials & Contact
-- 📧 **Email:** [diderhossainsuzon@email.com](diderhossainsuzon@gmail.com)
+- 📧 **Email:** [diderhossainsuzon@email.com](diderhossainsuzon;@gmail.com)
 - 📍 **Location:** Sylhet, Bangladesh
 - 💼 **LinkedIn:** [Dider Hossain Suzon](https://linkedin.com/in/dider-hossain-suzon/)
 - 📸 **Socials:** [facebook](#) | [TikTok](#)
