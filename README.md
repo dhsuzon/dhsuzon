@@ -32,8 +32,8 @@ I am a passionate **Software Engineer** dedicated to building scalable and effic
 ---
 
 ### 📊 GitHub Analytics
-![Suzon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
+![Suzon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhsuzon&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhsuzon&layout=compact&theme=dark)
 
 ---
 
