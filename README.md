@@ -3,15 +3,12 @@
 
 
 # Hi there, I'm Dider Hussain Suzon 👋
-### Software Engineer | Full-Stack Developer
+### Full-Stack Developer | MERN Stack & Next.js Expert
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Software%20Engineer-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Full--Stack%20Developer-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/-MERN%20Stack-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Full--Stack%20Developer-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/-MERN%20Stack%20%26%20Next.js%20Expert%20Developer-orange?style=flat-square" />
 </p>
-
 ---
 
 ### 🧑‍💻 About Me
