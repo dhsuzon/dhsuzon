@@ -9,14 +9,11 @@
   <img src="https://img.shields.io/badge/-Full--Stack%20Developer-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/-MERN%20Stack%20%26%20Next.js%20Expert%20Developer-orange?style=flat-square" />
 </p>
+
 ---
 
 ### 🧑‍💻 About Me
-I am a passionate **Software Engineer** dedicated to building scalable and efficient web applications. With expertise in the **MERN Stack**, I enjoy solving complex problems through clean and maintainable code.
-
-- 🔭 **Current Activity:** I am exploring advanced features of **Next.js** and learning **Advance DSA & Algorithms**.
-- 🌱 **Learning Journey:** Deepening my knowledge in **System Design** and building scalable architectures.
-- 💬 **Ask me about:** React, Node.js, MongoDB, or C++ competitive programming.
+I am a passionate Full-Stack Developer dedicated to building scalable and efficient web applications. With expertise in the MERN Stack and Next.js, I enjoy solving complex problems through clean and maintainable code. I am constantly exploring modern web technologies and am currently focused on deepening my knowledge in System Design and building scalable architectures
 
 ### 🛠️ Skills & Technologies 
 
