@@ -1,4 +1,7 @@
-# Hi there, I'm Dider Hossain Suzon 👋
+<img width="100%"  alt="Dider hussain suzon banner" src="https://github.com/user-attachments/assets/3e1a631a-cd1a-46a3-86b3-97f46ea3211c" />
+
+
+# Hi there, I'm Dider Hussain Suzon 👋
 ### Software Engineer | Full-Stack Developer
 
 <p align="left">
