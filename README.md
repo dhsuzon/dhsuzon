@@ -42,13 +42,13 @@ I am a passionate Full-Stack Developer dedicated to building scalable and effici
 ### 📊 GitHub Stats & Streaks
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhsuzon&show_icons=true&theme=radical&count_private=true" alt="dhsuzon stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhsuzon&theme=radical" alt="dhsuzon streak" />
+  <img src="https://stats.muhammedkav.com/api?username=dhsuzon&show_icons=true&theme=radical&count_private=true" alt="dhsuzon stats" />
+  <img src="https://stats.muhammedkav.com/api/streak-stats?user=dhsuzon&theme=radical" alt="dhsuzon streak" />
 </p>
 
 ### 🛠 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhsuzon&layout=compact&theme=radical" alt="top languages" />
+  <img src="https://stats.muhammedkav.com/api/top-langs/?username=dhsuzon&layout=compact&theme=radical" alt="top languages" />
 </p>
 
 ---
