@@ -40,17 +40,14 @@ I am a passionate Full-Stack Developer dedicated to building scalable and effici
 
 
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Streak
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhsuzon&theme=radical" />
-</p>
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhsuzon&theme=radical&hide_border=true" alt="Suzon's GitHub Streak" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhsuzon&theme=radical" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dhsuzon&theme=radical&hide_border=true" /></td>
+  </tr>
+</table>
 
 ### 🛠 Top Languages
 
