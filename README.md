@@ -45,7 +45,8 @@ I am a passionate Full-Stack Developer dedicated to building scalable and effici
 ---
 
 ### 🌐 Socials & Contact
+
 - 📧 **Email:** [diderhossainsuzon@gmail.com](mailto:diderhossainsuzon@gmail.com)
 - 💼 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dider-hossain-suzon/)
-- 👤 **Facebook:** [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/didarsuzon)
+- 💻 **GitHub:** [@dhsuzon](https://github.com/dhsuzon)
 
