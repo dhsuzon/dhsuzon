@@ -43,7 +43,7 @@ I am a passionate Full-Stack Developer dedicated to building scalable and effici
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhsuzon&theme=radical&show_icons=tru" alt="dhsuzon stats" />
-  <img src="https://github-readme-stats.herokuapp.com/?user=dhsuzon&theme=radical" alt="dhsuzon streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhsuzon&theme=radical" alt="dhsuzon streak" />
 </p>
 
 ### 🛠 Most Used Languages
