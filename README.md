@@ -42,7 +42,7 @@ I am a passionate Full-Stack Developer dedicated to building scalable and effici
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhsuzon&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhsuzon&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ### 🔥 GitHub Streak
