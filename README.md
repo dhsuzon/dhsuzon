@@ -48,7 +48,7 @@ I am a passionate Full-Stack Developer dedicated to building scalable and effici
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.herokuapp.com/?user=dhsuzon&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.herokuapp.com/?user=dhsuzon&theme=dracula" alt="GitHub Streak" />
 </p>
 
 ### 🛠 Top Languages
