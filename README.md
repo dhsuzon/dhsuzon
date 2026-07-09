@@ -40,16 +40,11 @@ I am a passionate Full-Stack Developer dedicated to building scalable and effici
 
 
 ### 📊 GitHub Stats & Streaks
-
-<p align="center">
-  <img src="https://github-readme-stats.com/api?username=dhsuzon&show_icons=true&theme=radical&count_private=true" alt="dhsuzon stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhsuzon&theme=radical" alt="dhsuzon streak" />
-</p>
+- **GitHub Stats:** [Click here to view your GitHub Stats](https://github-readme-stats.com/api?username=dhsuzon&show_icons=true&theme=radical)
+- **GitHub Streak:** [Click here to view your Streak](https://github-readme-streak-stats.herokuapp.com?user=dhsuzon&theme=radical)
 
 ### 🛠 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.com/api/top-langs/?username=dhsuzon&layout=compact&theme=radical" alt="top languages" />
-</p>
+- **Languages:** [Click here to view Top Languages](https://github-readme-stats.com/api/top-langs/?username=dhsuzon&layout=compact&theme=radical)
 
 ---
 
