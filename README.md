@@ -48,7 +48,6 @@ I am a passionate Full-Stack Developer dedicated to building scalable and effici
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhsuzon&layout=compact&theme=radical)
 
-
 ---
 
 ### 🌐 Socials & Contact
