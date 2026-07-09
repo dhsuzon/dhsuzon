@@ -42,7 +42,11 @@ I am a passionate Full-Stack Developer dedicated to building scalable and effici
 
 ### 📊 GitHub Stats & Streak
 
-<table>
+<table align="center">
+  <tr>
+    <th align="center">Stats</th>
+    <th align="center">Streak</th>
+  </tr>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhsuzon&theme=radical" /></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dhsuzon&theme=radical&hide_border=true" /></td>
@@ -51,10 +55,14 @@ I am a passionate Full-Stack Developer dedicated to building scalable and effici
 
 ### 🛠 Top Languages
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhsuzon&theme=radical" />
-</p>
-
+<table align="center">
+  <tr>
+    <th align="center">Top Languages by Repo</th>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhsuzon&theme=radical" /></td>
+  </tr>
+</table>
 
 ### 🌐 Socials & Contact
 
