@@ -53,6 +53,16 @@ I am a passionate Full-Stack Developer dedicated to building scalable and effici
 </p>
 
 ---
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhsuzon&theme=dracula" alt="Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhsuzon&theme=dracula" alt="Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhsuzon&layout=compact&theme=dracula" alt="Languages" />
+</p>
 
 
 ### 🌐 Socials & Contact
