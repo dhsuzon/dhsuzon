@@ -39,29 +39,22 @@ I am a passionate Full-Stack Developer dedicated to building scalable and effici
 ---
 
 
-### 📊 GitHub Stats & Streaks
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhsuzon&theme=radical&show_icons=true" alt="dhsuzon stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhsuzon&theme=radical" alt="dhsuzon streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhsuzon&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
-### 🛠 Most Used Languages
+### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhsuzon&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5" alt="top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhsuzon&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
-### 📊 My GitHub Stats
+### 🛠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhsuzon&theme=dracula" alt="Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhsuzon&theme=dracula" alt="Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhsuzon&layout=compact&theme=dracula" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhsuzon&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 
