@@ -38,9 +38,17 @@ I am a passionate Full-Stack Developer dedicated to building scalable and effici
 
 ---
 
-### 📊 GitHub Analytics
-![Suzon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhsuzon&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhsuzon&layout=compact&theme=dark)
+### 📊 GitHub Stats & Streaks
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhsuzon&show_icons=true&theme=radical&count_private=true" alt="dhsuzon stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhsuzon&theme=radical" alt="dhsuzon streak" />
+</p>
+
+### 🛠 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhsuzon&layout=compact&theme=radical" alt="top languages" />
+</p>
 
 ---
 
