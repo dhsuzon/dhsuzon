@@ -55,7 +55,7 @@ I am a passionate Full-Stack Developer dedicated to building scalable and effici
 ### 🛠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhsuzon&layout=compact&theme=radical&hide_border=true" alt="Suzon's Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhsuzon&theme=radical" />
 </p>
 
 
