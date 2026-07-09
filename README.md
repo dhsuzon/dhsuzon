@@ -46,7 +46,6 @@ I am a passionate Full-Stack Developer dedicated to building scalable and effici
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dhsuzon&theme=radical" alt="dhsuzon streak" />
 </p>
-
 ### 🛠 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhsuzon&layout=compact&theme=radical" alt="top languages" />
