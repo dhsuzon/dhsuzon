@@ -15,6 +15,16 @@
 ### 🧑‍💻 About Me
 I am a passionate Full-Stack Developer dedicated to building scalable and efficient web applications. With expertise in the MERN Stack and Next.js, I enjoy solving complex problems through clean and maintainable code. I am constantly exploring modern web technologies and am currently focused on deepening my knowledge in System Design and building scalable architectures
 
+---
+### 🚀 What I'm Focusing On
+*   Deepening my expertise in **Data Structures and Algorithms (DSA)** to enhance problem-solving skills.
+*   Mastering advanced **Next.js** features and modern web architectural patterns.
+*   Integrating **TypeScript** into my projects to build more robust and type-safe applications.
+*   Engaging in rigorous **Problem Solving** to improve algorithmic efficiency.
+*   Continuously exploring new technologies to build scalable and efficient solutions.
+
+---
+
 ### 🛠️ Skills & Technologies 
 
 | Category | Icons |
