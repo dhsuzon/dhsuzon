@@ -42,20 +42,17 @@ I am a passionate Full-Stack Developer dedicated to building scalable and effici
 
 ### 📊 GitHub Stats & Streak
 
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhsuzon&theme=radical" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dhsuzon&theme=radical&hide_border=true" /></td>
-  </tr>
-</table>
+| Stats | Streak |
+| :---: | :---: |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhsuzon&theme=radical" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhsuzon&theme=radical&hide_border=true" /> |
+
+---
 
 ### 🛠 Top Languages
 
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhsuzon&theme=radical" /></td>
-  </tr>
-</table>
+| Top Languages by Repo |
+| :---: |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhsuzon&theme=radical" /> |
 
 ### 🌐 Socials & Contact
 
