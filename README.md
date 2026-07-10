@@ -58,8 +58,9 @@ I am a passionate Full-Stack Developer dedicated to building scalable and effici
 
 ### 🌐 Socials & Contact
 
-- **Email:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [📧 diderhossainsuzon@gmail.com](mailto:diderhossainsuzon@gmail.com)<br>
-- **LinkedIn:** &nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dider-hossain-suzon/)<br>
+- **Email:**    &nbsp; [📧 diderhossainsuzon@gmail.com](mailto:diderhossainsuzon@gmail.com)<br>
+- **LinkedIn:** &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dider-hossain-suzon/)<br>
 - **WhatsApp:** &nbsp; [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801871660165)<br>
-- **GitHub:** &nbsp;&nbsp;&nbsp;&nbsp; [💻 @dhsuzon](https://github.com/dhsuzon)<br>
+- **GitHub:**   &nbsp; [💻 @dhsuzon](https://github.com/dhsuzon)<br>
+- **Phone:**    &nbsp; +8801882043240
 
